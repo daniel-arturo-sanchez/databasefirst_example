@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT02\\databasefirst_example\\databaseFirst\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8B4C80-5207-4262-90E5-51DF6D6FE0B8}|databaseFirst.csproj|c:\\users\\2dawa\\documents\\dsw - desarrollo web entorno servidor\\ut02\\databasefirst_example\\databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8B4C80-5207-4262-90E5-51DF6D6FE0B8}|databaseFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8B4C80-5207-4262-90E5-51DF6D6FE0B8}|databaseFirst.csproj|c:\\users\\2dawa\\documents\\dsw - desarrollo web entorno servidor\\ut02\\databasefirst_example\\databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD8B4C80-5207-4262-90E5-51DF6D6FE0B8}|databaseFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8B4C80-5207-4262-90E5-51DF6D6FE0B8}|databaseFirst.csproj|c:\\users\\2dawa\\documents\\dsw - desarrollo web entorno servidor\\ut02\\databasefirst_example\\databasefirst\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8B4C80-5207-4262-90E5-51DF6D6FE0B8}|databaseFirst.csproj|solutionrelative:controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT02\\databasefirst_example\\databaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT02\\databasefirst_example\\databaseFirst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T12:36:07.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT02\\databasefirst_example\\databaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT02\\databasefirst_example\\databaseFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:34:58.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT02\\databasefirst_example\\databaseFirst\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT02\\databasefirst_example\\databaseFirst\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Controllers\\SuppliersController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:34:49.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
